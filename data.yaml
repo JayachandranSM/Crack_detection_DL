@@ -1,0 +1,9 @@
+path: ../datasets/roboflow
+
+train: E:/crack_detection_yolov8/train/images 
+val: E:/crack_detection_yolov8/valid/images
+test: E:/crack_detection_yolov8/test/images
+
+names: 
+  0: Crack
+
